@@ -1,6 +1,6 @@
 .button {
-  composes: normal from '../utilities/gutters.css';
-  composes: reset from '../utilities/button.css';
+  composes: normal from '♼/gutters.css';
+  composes: reset from '♼/button.css';
 
   colour: white;
 }
