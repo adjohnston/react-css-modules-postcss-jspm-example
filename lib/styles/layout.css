@@ -16,3 +16,7 @@
 .paddingSmall {
   composes: cushionSmall gutterSmall;
 }
+
+:global .bgGrey {
+  background-color: #eee;
+}
