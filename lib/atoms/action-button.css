@@ -1,8 +1,10 @@
 .button {
-  composes: normal from '../utilities/gutters.css';
-  composes: reset from '../utilities/button.css';
+  composes: fontSizeNormal colourWhite from '../styles/typography.css';
+  composes: cushionSmall gutterNormal from '../styles/layout.css';
 
-  colour: white;
+  border: 0;
+  cursor: pointer;
+  line-height: 1rem;
 }
 
 .primary {
