@@ -1,0 +1,19 @@
+.colourWhite {
+  colour: white;
+}
+
+.colourBlack {
+  colour: black;
+}
+
+.colourPrimary {
+  colour: #2a8fbd;
+}
+
+.colourWarning {
+  colour: #ff4040;
+}
+
+.fontSizeNormal {
+  font-size: 1rem;
+}

@@ -1,0 +1,18 @@
+.gutterSmall {
+  padding-left: .5rem;
+  padding-right: .5rem;
+}
+
+.gutterNormal {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.cushionSmall {
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+}
+
+.paddingSmall {
+  composes: cushionSmall gutterSmall;
+}
